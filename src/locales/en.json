@@ -1,0 +1,21 @@
+{
+  "areas":  {
+    "homepage": "Homepage",
+    "news": "News",
+    "departments": "Departments",
+    "toolbox": "Toolbox",
+    "announcements": "Announcements",
+    "sections": "Sections",
+    "about": "About"
+  },
+  "navigationBar": {
+    "sideMenuTitle": "Intranet",
+    "sideMenuSubTitle": "Sub menu"
+  },
+  "footer": {
+    "terms": "Using the application you accept the terms and conditions of use. Copyright © 2021 Budget Airlines"
+  },
+  "common": {
+    "search": "Search"
+  }
+}

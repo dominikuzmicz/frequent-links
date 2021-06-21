@@ -1,0 +1,21 @@
+{
+  "areas":  {
+    "homepage": "Strona główna",
+    "news": "Wiadomości",
+    "departments": "Oddziały",
+    "toolbox": "Narzędzia",
+    "announcements": "Ogłoszenia",
+    "sections": "Sekcje",
+    "about": "O nas"
+  },
+  "navigationBar": {
+    "sideMenuTitle": "Intranet",
+    "sideMenuSubTitle": "Menu podręczne"
+  },
+  "footer": {
+    "terms": "Korzystając z aplikacji akceptujesz warunki użytkowania. Copyright © 2021 Budżetowe Linie Lotnicze"
+  },
+  "common": {
+    "search": "Wyszukaj"
+  }
+}
